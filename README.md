@@ -11,17 +11,25 @@
 
 ## Projects:
 
-**...:** https://github.com/stijn-veren/bgp-rv/tree/main/...
+**React GraphQl:** https://github.com/stijn-veren/bgp-rv/tree/main/...
 
 > **Projects List:** https://github.com/stijn-veren/projects-list
 
 ## Resources:
 
-### ...
+### React GraphQl
 
-...:
+Bootstrap:
 
-- ...
+- https://yarnpkg.com/package/bootstrap
+
+Bootstrap Icons:
+
+- https://yarnpkg.com/package/bootstrap-icons
+
+Sass:
+
+- https://yarnpkg.com/package/sass
 
 ### Notes
 
