@@ -33,4 +33,6 @@ Sass:
 
 ### Notes
 
-#### ...
+#### GitHub's GraphQL Explorer
+
+- https://docs.github.com/en/graphql/overview/explorer
