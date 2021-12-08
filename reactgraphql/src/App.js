@@ -1,20 +1,11 @@
 import github from './db'
 import { useEffect, useState } from 'react'
+import githubQuery from './Query'
 
 function App() {
   let [userName, setUserName] = useState('')
 
   useEffect(() => {
-    const githubQuery = {
-      query: `
-        {
-          viewer {
-            name
-          }
-        }
-      `,
-    }
-
     fetch(github.baseURL, {
       method: 'POST',
       headers: github.headers,
